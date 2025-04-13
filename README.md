@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷‍♂️ **Engineer - Infrastructure AI**  <br>💻 Specializing in Azure, AD, Automation, and AI Solutions  <br>🔧 **Skills:** Python 🐍, Machine Learning 🤖, Data Science 📊, Deep Learning 🌊, NLP 🗣️, Time Series Analysis ⏳, Chatbots 💬.
+👷‍♂️ **Engineer - Infra AI**  <br>💻 Specializing in Azure, AD, Automation, and AI Solutions  <br>🔧 **Skills:** Python 🐍, Machine Learning 🤖, Data Science 📊, Deep Learning 🌊, NLP 🗣️, Time Series Analysis ⏳, Chatbots 💬.
 
 
 ## 🌐 Socials:
