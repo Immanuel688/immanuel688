@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👷‍♂️ Engineer – Infra AI  
+👷‍♂️ Senior Engineer – AI&ML | Generative AI | Infrastructure 
 💻 Specializing in Azure ☁️, Active Directory 🧩, Automation ⚙️, and AI Solutions 🧠  
 
 🔧 Skills:  
