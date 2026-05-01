@@ -1,7 +1,8 @@
 # 💫 About Me:
 
 👷‍♂️ Senior Engineer – AI&ML | Generative AI | Infrastructure 
-💻 Specializing in Azure ☁️, Active Directory 🧩, Automation ⚙️, and AI Solutions 🧠  
+
+💻 Specializing in AI Solutions 🧠, Active Directory 🧩, Automation ⚙️ and  Azure ☁️ 
 
 🔧 Skills:  
 Python 🐍, Machine Learning 🤖, Data Science 📊, Deep Learning 🌊, NLP 🗣️,  
