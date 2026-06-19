@@ -5,8 +5,9 @@
 💻 Specializing in AI Solutions 🧠, Active Directory 🧩, Automation ⚙️ and  Azure ☁️ 
 
 🔧 Skills:  
-Python 🐍, Machine Learning 🤖, Data Science 📊, Deep Learning 🌊, NLP 🗣️,  
+Python 🐍, FAST API, Machine Learning 🤖, Data Science 📊, Deep Learning 🌊, NLP 🗣️,  
 Time Series Analysis ⏳, Chatbots 💬, LLMs 🧠📚, Generative AI ✨🧬, AI Agents 🤖🕸️
+Langchain, Langgraph, Autogen, GCP, Docker, Cloud build, CI/CD, Cloud Run
 
 
 
